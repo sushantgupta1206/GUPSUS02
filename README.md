@@ -11,8 +11,7 @@ The script [GoodReadsScrapper.py](https://github.com/sushantgupta1206/GUPSUS02/b
   
 My main objective while solving the question was to hit the website with correct credentials and then browse through the page of quotes to filter for the top 10 quotes by Mark Twain. 
   
-Please check the output file [Top_10_quotes](https://github.com/sushantgupta1206/GUPSUS02/blob/master/Top10_Quotes.txt) here. It contains json objects listed in the original form. The file will be auto-generated when we run the code.   
-The [image]() is an edited version of the sample output I get after running the code. 
+Please check the output file [Top_10_quotes](https://github.com/sushantgupta1206/GUPSUS02/blob/master/Top10_Quotes.txt) here. It contains json objects listed in the original form. The file will be auto-generated when we run the code.    
   
 **Steps to Run the code:**   
 > 1. clone the repository using `git clone https://github.com/sushantgupta1206/GUPSUS02.git` on the local machine  
