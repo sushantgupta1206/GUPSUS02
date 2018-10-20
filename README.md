@@ -21,6 +21,9 @@ Please check the output file [Top_10_quotes](https://github.com/sushantgupta1206
 > 5. Enter valid user credentials
 > 5. Please check the 'Top_10_quotes.txt' file in the same directory to verify the output. 
 
+**Testing:**    
+Please use this command to run the test file and check the results in the console : `python GoodReadsUnitsTests.py`
+
 **References and Readings**
 > 1. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 > 2. https://robobrowser.readthedocs.io/en/latest/readme.html
